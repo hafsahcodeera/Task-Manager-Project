@@ -23,15 +23,3 @@ A sleek, interactive task management web application built with HTML, CSS, and J
 1. Download or clone this repository
 2. Open `index.html` in your web browser
 3. Start adding and managing your tasks!
-
-## Live Demo
-
-[View Live Demo](https://your-username.github.io/your-repository-name/)
-
-## Screenshots
-
-![App Screenshot](screenshot.png)
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
